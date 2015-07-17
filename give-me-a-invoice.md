@@ -11,10 +11,10 @@ If you need a invoice, you might have problems with consuming these service prov
 
  - [BigCartel](http://www.bigcartel.com): only Receipt/Payment history. They might give you a template, which lets your create your own. Still, invoice number is missing.
  - [Skype.com](http://www.skype.com): in EU, you can only generate Invoices by using a link which is not visible in the website. Without this link, you can't have an invoice. It's: ```https://secure.skype.com/users/<username>/payment/orders/<ordernumber>/invoice?regenerate=true```
-
  - [Rdio.com](http://www.rdio.com): only Receipt/Payment history.
  - [Scoutapp.com](http://www.scoutapp.com): only Receipt/Payment history
- 
+ - [Grammarly.com](http://www.grammarly.com): PayPal receipt without additional information. Customer service sucked
+
 ## List of companies which give you proper invoices
  
 - [Amazon AWS](http://aws.amazon.com)
